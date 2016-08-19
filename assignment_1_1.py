@@ -12,3 +12,4 @@ for item in catalogue:
 
 print '\n'
 print 'total number of items: '+str(catalogue_items)
+print 'this version of the file has been edited for git training'
